@@ -70,7 +70,9 @@ Chrome の html が自動リロードされ、更新内容が反映されます�
 
 ## Notes
 
-* 「ファイルの URL へのアクセスを許可する」の設定がされていないと、ローカルにあるファイルが LiveReload されなくて悩むことになるのでご注意ください。
+* 最初に起動した際に Ruby の外部へのアクセス許可のダイアログが出てくると思うので OK してください。
+
+* LiveReload Extentions の「ファイルの URL へのアクセスを許可する」の設定がされていないと、ローカルにあるファイルが LiveReload されなくて悩むことになるのでご注意ください。
 
 * PlantUML が画像生成に失敗した場合のケアを何もしていないので変な結果になるかもしれません。
 
@@ -80,7 +82,9 @@ Chrome の html が自動リロードされ、更新内容が反映されます�
 
 本レポジトリに含まれている PlantUML は GPL ライセンスのものです。
 
-PlantUML の配布ライセンスは GPL ですが、他のライセンスのバージョンも利用できるそうです。(c.f. http://plantuml.com/faq)
+PlantUML の配布ライセンスは GPL ですが、他のライセンスのバージョンも利用できるそうです。
+
+    c.f. http://plantuml.com/faq
 
 ## References URL
 
@@ -96,8 +100,6 @@ PlantUML の配布ライセンスは GPL ですが、他のライセンスのバ
 
 PlantUML ってロゴとかシンボルマークとかないんですね。
 
-![植物系統図の一例 - Wikipedia](https://ja.wikipedia.org/wiki/%E6%A4%8D%E7%89%A9#/media/File:Plant_phylogeny.png "植物系統図の一例")
+![植物系統図の一例 - Wikipedia](https://upload.wikimedia.org/wikipedia/commons/3/36/Plant_phylogeny.png "植物系統図の一例")
 
 公式ページ、怪しさMaxな感じで、もうちょっとなんとかできるといいなあって思いました。
-
-[EOF]
