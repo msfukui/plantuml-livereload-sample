@@ -1,0 +1,12 @@
+# rubygems & bundler files
+.bundle/
+Gemfile.lock
+vendor/
+
+# Vim Files
+.vimprojects
+tags
+.*.swp
+
+*.png
+*.html
